@@ -194,9 +194,6 @@ const CarDetail = () => {
                       year: car.year
                     }}
                   />
-                  <Link to="/finance" className="w-full py-2 px-4 bg-green-600 text-white rounded text-center hover:bg-green-700 transition-colors">
-                    Apply for Finance
-                  </Link>
                 </div>
               </div>
             </div>
