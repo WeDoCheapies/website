@@ -212,7 +212,7 @@ const CarDetail = () => {
                     ))}
                   </ul>
                 ) : (
-                  <p className="text-gray-500">No specific features listed for this vehicle.</p>
+                  <p className="text-gray-500">No specific features listed for this vehicle</p>
                 )}
               </div>
             </div>
